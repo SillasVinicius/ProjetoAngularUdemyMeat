@@ -1,0 +1,2 @@
+const MEAT_API = 'http://localhost:3000';
+export { MEAT_API };
